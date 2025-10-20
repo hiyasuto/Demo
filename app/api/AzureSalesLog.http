@@ -1,0 +1,6 @@
+@AzureSalesLog_HostAddress = http://localhost:5206
+
+GET {{AzureSalesLog_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
